@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Poster Editable SVG"
+  short_description: "Turn AI poster text into Illustrator-editable SVG layers."
+  default_prompt: "Use $ai-poster-editable-svg to rebuild this AI-generated poster as an Illustrator-friendly SVG with editable normal text, vector art text, and a linked clean background image."
