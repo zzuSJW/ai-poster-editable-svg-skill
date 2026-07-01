@@ -9,10 +9,8 @@ Codex skill for rebuilding AI-generated poster images into Illustrator-friendly 
 
 ## Install
 
-Replace `<owner>` with the GitHub username or organization that owns this repository:
-
 ```bash
-python "%USERPROFILE%\\.codex\\skills\\.system\\skill-installer\\scripts\\install-skill-from-github.py" --repo <owner>/ai-poster-editable-svg-skill --path skills/ai-poster-editable-svg
+python "%USERPROFILE%\\.codex\\skills\\.system\\skill-installer\\scripts\\install-skill-from-github.py" --repo zzuSJW/ai-poster-editable-svg-skill --path skills/ai-poster-editable-svg
 ```
 
 Restart Codex after installation so the new skill is discovered.
